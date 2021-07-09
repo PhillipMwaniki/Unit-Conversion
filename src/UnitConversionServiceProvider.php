@@ -2,9 +2,9 @@
 
 namespace Phillipmwaniki\UnitConversion;
 
+use Phillipmwaniki\UnitConversion\Commands\UnitConversionCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Phillipmwaniki\UnitConversion\Commands\UnitConversionCommand;
 
 class UnitConversionServiceProvider extends PackageServiceProvider
 {
