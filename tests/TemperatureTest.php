@@ -3,7 +3,6 @@
 namespace Phillipmwaniki\UnitConversion\Tests;
 
 use Phillipmwaniki\UnitConversion\Temperature;
-use Phillipmwaniki\UnitConversion\Weight;
 
 class TemperatureTest extends TestCase
 {

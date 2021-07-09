@@ -4,7 +4,7 @@ namespace Phillipmwaniki\UnitConversion;
 
 class Weight
 {
-	protected float $kilogrammes;
+    protected float $kilogrammes;
 
     public static function fromKilogrammes(float $kilogrammes)
     {
